@@ -3,6 +3,7 @@
 A native iOS application built with **SwiftUI** for tracking live sports schedules and box scores. This project demonstrates modern iOS development practices, including MVVM architecture and modular state management.
 
 ![App Screenshot]
+
 <img width="585" height="1266" alt="IMG_5053" src="https://github.com/user-attachments/assets/230a4069-b26f-40c9-a574-545198ce283a" />
 <img width="585" height="1266" alt="IMG_5052" src="https://github.com/user-attachments/assets/b7b7d774-feb8-4d8f-844e-0e331f94d6ad" />
 <img width="585" height="1266" alt="IMG_5051" src="https://github.com/user-attachments/assets/fdcc8c06-88ec-4dc8-909f-692431c277fc" />
